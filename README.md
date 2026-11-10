@@ -1,0 +1,1 @@
+Proof of Concept for creating dynamic routing after adding domain specific experts to a Mixture-of-Experts Language Model.
